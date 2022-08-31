@@ -4,7 +4,7 @@ This directory contains the support code needed to visualize the CSCI 3081 proje
 
 ***I added the Singleton pattern as shown as in the Singleton.cc and Singleton.h files File Path: libs>transit>src***
 
-***This is a portion of the project, some parts ommitted***
+***This is a portion of the project, some parts omitted***
 
 #### What is in this directory?
 <ul>
