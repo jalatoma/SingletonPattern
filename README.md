@@ -2,7 +2,9 @@
 
 This directory contains the support code needed to visualize the CSCI 3081 project and run tests.  The beta support code explains how to quickly get a drone moving.  Most of the logic should be moved into the simulation facade so that the simulation is not dependent on the view.  See <code>web_app.cc</code> for more details.
 
-***I added the Singleton pattern as shown as in the Singleton.cc and Singleton.h files***
+***I added the Singleton pattern as shown as in the Singleton.cc and Singleton.h files File Path: libs>transit>src***
+
+***This is a portion of the project, some parts ommitted***
 
 #### What is in this directory?
 <ul>
